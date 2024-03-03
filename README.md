@@ -1,1 +1,1 @@
-# Automatic-Tweet-Response-system
+# Automated-Tweet-Response-system
