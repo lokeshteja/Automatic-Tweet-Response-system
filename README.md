@@ -45,6 +45,12 @@ This project offers an advanced solution for Twitter customer support, combining
 5. Tickets are generated and routed based on the analysis.
 6. Data is stored for strategic insights and effective problem resolution.
 
+**Workflow Diagram**
+
+
+![Workflow Diagram]
+<img src="https://raw.githubusercontent.com/lokeshteja/Automatic-Tweet-Response-system/main/workflow.png" width="600">
+
 ## Potential Applications
 
 Ideal for sectors with high volumes of social media traffic, such as:
@@ -55,9 +61,3 @@ Ideal for sectors with high volumes of social media traffic, such as:
 
 ---
 
-**Workflow Diagram**
-
-```markdown
-![Workflow Diagram]
-<img src="https://raw.githubusercontent.com/lokeshteja/Automatic-Tweet-Response-system/main/workflow.png" width="600">
-```
