@@ -57,8 +57,6 @@ Ideal for sectors with high volumes of social media traffic, such as:
 
 **Workflow Diagram**
 
-*(Here you will embed the workflow diagram. To embed an image in your GitHub README, use the following markdown syntax:)*
-
 ```markdown
 ![Workflow Diagram](https://raw.githubusercontent.com/lokeshteja/Automatic-Tweet-Response-system/main/workflow.png)
 ```
