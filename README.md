@@ -58,5 +58,7 @@ Ideal for sectors with high volumes of social media traffic, such as:
 **Workflow Diagram**
 
 ```markdown
-![Workflow Diagram](<img src="https://github.com/lokeshteja/Automatic-Tweet-Response-system/blob/94c7b5c6bbb2eea2fed822b50557ef2f06ab5244/workflow.png" width="600">)
+![Workflow Diagram]
+<img src="https://github.com/lokeshteja/Automatic-Tweet-Response-system/blob/94c7b5c6bbb2eea2fed822b50557ef2f06ab5244/workflow.png" width="600">
+
 ```
