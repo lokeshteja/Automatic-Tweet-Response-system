@@ -72,7 +72,7 @@ class References:
     consumer_key = "PA4SD4sL3OK4RewfUGR5I58tj"
     consumer_secret = "reDTNpU61whECGlWrZn0WERs5s1O7EdBSB0TdsG7VEDuz1Ybzz"
 
-    TRACK_TWEET = "projectpro_test"
+    TRACK_TWEET = "American Airline"
 
     # api-endpoint
     #Insert your IP with Port 5000 Eg- "http://34.221.72.51:5000/"
