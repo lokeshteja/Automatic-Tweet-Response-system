@@ -25,7 +25,7 @@ This project offers an advanced solution for Twitter customer support, combining
 - Twitter API for data stream integration.
 - Data Lake solutions for scalable storage.
 - Finally Deployed this in AWS
-
+<!-- 
 ## Getting Started
 
 ### Prerequisites
@@ -35,7 +35,7 @@ This project offers an advanced solution for Twitter customer support, combining
 ### Installation
 
 *(Step-by-step guide on setting up and running the project.)*
-
+-->
 ## How It Works
 
 1. Tweets are captured in real-time via streaming.
@@ -45,6 +45,10 @@ This project offers an advanced solution for Twitter customer support, combining
 5. Tickets are generated and routed based on the analysis.
 6. Data is stored for strategic insights and effective problem resolution.
 
+**Workflow Diagram**
+
+![image](https://github.com/lokeshteja/Automatic-Tweet-Response-system/assets/28762945/98f26e52-a3e4-40e0-b329-9faccc46369b)
+
 ## Potential Applications
 
 Ideal for sectors with high volumes of social media traffic, such as:
@@ -52,11 +56,5 @@ Ideal for sectors with high volumes of social media traffic, such as:
 - Customer Support Centers
 - E-commerce Platforms
 - Tech Corporations
+- Airlines & other Travel Agencies 
 
----
-
-**Workflow Diagram**
-
-```markdown
-![Workflow Diagram](https://raw.githubusercontent.com/lokeshteja/Automatic-Tweet-Response-system/main/workflow.png)
-```
